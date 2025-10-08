@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "TaskMaster",
+    "companyName": "Productive Inc.",
+    "id": 1,
+    "description": "Manage your tasks efficiently and boost productivity.",
+    "size": "45M",
+    "reviews": 1023,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 513 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "FocusFlow",
+    "companyName": "Zen Productivity",
+    "id": 2,
+    "description": "Block distractions and enter deep focus mode.",
+    "size": "39M",
+    "reviews": 891,
+    "ratingAvg": 4.6,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 396 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "NoteBuddy",
+    "companyName": "QuickNote Co.",
+    "id": 3,
+    "description": "A fast and simple note-taking app to capture ideas anytime.",
+    "size": "22M",
+    "reviews": 1476,
+    "ratingAvg": 4.8,
+    "downloads": 1350000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 410 },
+      { "name": "5 star", "count": 911 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "HabitHero",
+    "companyName": "BetterYou",
+    "id": 4,
+    "description": "Build and track daily habits with reminders.",
+    "size": "28M",
+    "reviews": 795,
+    "ratingAvg": 4.4,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "TimeGuard",
+    "companyName": "EfficientSoft",
+    "id": 5,
+    "description": "Monitor and limit screen time across apps.",
+    "size": "50M",
+    "reviews": 620,
+    "ratingAvg": 4.2,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 190 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "GoalSet",
+    "companyName": "VisionApps",
+    "id": 6,
+    "description": "Set goals and track progress step by step.",
+    "size": "34M",
+    "reviews": 980,
+    "ratingAvg": 4.6,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 480 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "MindMap",
+    "companyName": "ThinkCreate",
+    "id": 7,
+    "description": "Create mind maps and brainstorm ideas visually.",
+    "size": "42M",
+    "reviews": 544,
+    "ratingAvg": 4.3,
+    "downloads": 430000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 209 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "title": "ProjectFlow",
+    "companyName": "FlowSoft",
+    "id": 8,
+    "description": "Plan, assign, and track project tasks as a team.",
+    "size": "67M",
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "title": "FocusTimer",
+    "companyName": "FocusTech",
+    "id": 9,
+    "description": "Pomodoro style timer for deep work sessions.",
+    "size": "30M",
+    "reviews": 745,
+    "ratingAvg": 4.4,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "title": "HabitTrack",
+    "companyName": "BetterYou",
+    "id": 10,
+    "description": "Track daily habits with analytics and streaks.",
+    "size": "29M",
+    "reviews": 900,
+    "ratingAvg": 4.5,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 85 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 445 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "title": "NoteSync",
+    "companyName": "SyncSoft",
+    "id": 11,
+    "description": "Sync notes across devices in real time.",
+    "size": "25M",
+    "reviews": 1100,
+    "ratingAvg": 4.7,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 565 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "title": "FocusBoost",
+    "companyName": "BoostLab",
+    "id": 12,
+    "description": "White noise, timers and focus tools all in one.",
+    "size": "38M",
+    "reviews": 520,
+    "ratingAvg": 4.1,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 180 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "ClearMind",
+    "companyName": "MindClear",
+    "id": 13,
+    "description": "Daily journaling and mental clarity aid.",
+    "size": "27M",
+    "reviews": 600,
+    "ratingAvg": 4.3,
+    "downloads": 570000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 245 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "GoalDash",
+    "companyName": "GoalSoft",
+    "id": 14,
+    "description": "Visual dashboards to track your goals.",
+    "size": "48M",
+    "reviews": 830,
+    "ratingAvg": 4.5,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 340 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "PlanPro",
+    "companyName": "PlanSoft",
+    "id": 15,
+    "description": "Daily & weekly planning with smart suggestions.",
+    "size": "54M",
+    "reviews": 1010,
+    "ratingAvg": 4.6,
+    "downloads": 920000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "OrganizeIt",
+    "companyName": "OrderlyApps",
+    "id": 16,
+    "description": "Organize tasks, files, and projects in one place.",
+    "size": "60M",
+    "reviews": 940,
+    "ratingAvg": 4.4,
+    "downloads": 830000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "SyncTask",
+    "companyName": "SyncSoft",
+    "id": 17,
+    "description": "Synchronize tasks across all your devices.",
+    "size": "28M",
+    "reviews": 780,
+    "ratingAvg": 4.5,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "TaskShare",
+    "companyName": "ShareSoft",
+    "id": 18,
+    "description": "Share tasks easily with your team or friends.",
+    "size": "33M",
+    "reviews": 650,
+    "ratingAvg": 4.2,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 205 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "FocusLens",
+    "companyName": "LensApps",
+    "id": 19,
+    "description": "Visual focus tools to keep you on track.",
+    "size": "31M",
+    "reviews": 540,
+    "ratingAvg": 4.3,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 215 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "title": "FocusSuite",
+    "companyName": "SuiteApps",
+    "id": 20,
+    "description": "All-in-one suite: timer, notes, habit tracker.",
+    "size": "72M",
+    "reviews": 1320,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 690 }
+    ]
+  }
+]
