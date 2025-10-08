@@ -17,7 +17,7 @@ const Installation = () => {
             </div>
             <div className="space-y-3">
                 {
-                    installation.map(p => <div class="max-w-3/6 mx-auto flex items-center justify-between bg-white p-3 shadow-sm">
+                    installation.map(p => <div class="border border-gray-300 max-w-3/6 mx-auto flex items-center justify-between bg-white p-3 shadow-sm rounded-lg">
                         <div class="flex items-center space-x-3">
                             <img
                                 src={p.image}
