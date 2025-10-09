@@ -1,362 +1,510 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 1,
     "title": "TaskMaster",
     "companyName": "Productive Inc.",
-    "id": 1,
-    "description": "Manage your tasks efficiently and boost productivity.",
+    "image": "https://i.ibb.co/h1ht9B9t/link-icon-in-trendy-outline-style-isolated-on-white-background-link-silhouette-symbol-for-your-websi.jpg",
+    "description": "TaskMaster is your ultimate productivity companion, built to help you stay organized, focused, and efficient in every area of your life. Create and manage multiple projects, set deadlines, and prioritize tasks based on urgency or importance. Smart reminders and progress tracking keep you updated on what matters most, while collaboration tools allow seamless teamwork. You can assign responsibilities, monitor project completion, and get an instant overview of progress with clean visual dashboards. TaskMaster’s intelligent design adapts to your personal workflow, making it ideal for both individuals and teams. Whether managing work goals or personal plans, TaskMaster ensures you stay productive, stress-free, and in total control of your time.",
     "size": "45M",
     "reviews": 1023,
     "ratingAvg": 4.5,
-    "downloads": 1200000,
+    "downloads": "1.2M",
     "ratings": [
-      { "name": "1 star", "count": 50 },
+      { "name": "1 star", "count": 40 },
       { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 100 },
+      { "name": "3 star", "count": 110 },
       { "name": "4 star", "count": 300 },
       { "name": "5 star", "count": 513 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 2,
     "title": "FocusFlow",
     "companyName": "Zen Productivity",
-    "id": 2,
-    "description": "Block distractions and enter deep focus mode.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "FocusFlow helps you eliminate distractions and achieve deep focus effortlessly. Using adjustable focus timers and calming ambient sounds, it enables you to enter productive sessions and maintain concentration for longer periods. The app’s insightful analytics reveal how you spend your time, helping you understand your working habits and identify areas for improvement. You can personalize your focus sessions with break intervals and soundscapes designed for relaxation. Whether studying, coding, or completing creative work, FocusFlow keeps your mind sharp and centered. With daily progress summaries and motivational stats, it transforms your work habits and trains your brain to achieve sustained, distraction-free focus that lasts beyond each session.",
     "size": "39M",
     "reviews": 891,
     "ratingAvg": 4.6,
-    "downloads": 880000,
+    "downloads": "880K",
     "ratings": [
       { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 55 },
+      { "name": "2 star", "count": 40 },
       { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 310 },
-      { "name": "5 star", "count": 396 }
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 461 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 3,
     "title": "NoteBuddy",
     "companyName": "QuickNote Co.",
-    "id": 3,
-    "description": "A fast and simple note-taking app to capture ideas anytime.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "NoteBuddy is your fast, intuitive, and beautifully simple note-taking assistant that lets you capture every thought instantly. You can jot down quick notes, create voice memos, or organize detailed project outlines — all within seconds. With smart folders and tag organization, finding your notes becomes effortless. Everything syncs automatically across devices, so your ideas travel with you everywhere. The app supports offline access, ensuring you never lose important information even without the internet. Designed for clarity and speed, NoteBuddy is ideal for students, professionals, and creatives alike. It helps you think clearly, plan efficiently, and stay effortlessly organized in both your personal and professional life.",
     "size": "22M",
     "reviews": 1476,
     "ratingAvg": 4.8,
-    "downloads": 1350000,
+    "downloads": "1.3M",
     "ratings": [
-      { "name": "1 star", "count": 25 },
+      { "name": "1 star", "count": 20 },
       { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 90 },
-      { "name": "4 star", "count": 410 },
-      { "name": "5 star", "count": 911 }
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 1016 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 4,
     "title": "HabitHero",
     "companyName": "BetterYou",
-    "id": 4,
-    "description": "Build and track daily habits with reminders.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "HabitHero empowers you to build better habits, stay consistent, and achieve personal growth through daily motivation and clear progress tracking. Create custom routines for health, study, fitness, or mindfulness and monitor your streaks visually. The gamified interface keeps you motivated with levels, badges, and rewards as you progress. You can also set reminders to ensure you never miss a habit and view insights to identify your strongest patterns. Whether you’re forming new routines or breaking old habits, HabitHero helps you stay accountable and inspired. Its simple design and encouraging feedback turn personal development into an enjoyable, achievable, and rewarding journey every day.",
     "size": "28M",
     "reviews": 795,
     "ratingAvg": 4.4,
-    "downloads": 720000,
+    "downloads": "720K",
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 35 },
-      { "name": "3 star", "count": 80 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 360 }
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 275 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 5,
     "title": "TimeGuard",
     "companyName": "EfficientSoft",
-    "id": 5,
-    "description": "Monitor and limit screen time across apps.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "TimeGuard helps you regain control over your digital habits by tracking how much time you spend on apps and screens throughout the day. It provides detailed insights into your usage patterns, showing which apps consume most of your time and how that affects your productivity. You can set smart limits and receive alerts when you exceed your chosen boundaries. Weekly reports and visual graphs make it easy to spot trends and make conscious choices about screen time. Designed for professionals, parents, and students alike, TimeGuard promotes healthy device use, enhances focus, and helps you build a more mindful digital lifestyle effortlessly.",
     "size": "50M",
     "reviews": 620,
     "ratingAvg": 4.2,
-    "downloads": 650000,
+    "downloads": "650K",
     "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 130 },
-      { "name": "4 star", "count": 220 },
-      { "name": "5 star", "count": 190 }
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 150 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 6,
     "title": "GoalSet",
     "companyName": "VisionApps",
-    "id": 6,
-    "description": "Set goals and track progress step by step.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "GoalSet transforms big ambitions into small, actionable steps you can actually achieve. Define your personal or professional goals, divide them into smaller milestones, and monitor progress through beautiful visual dashboards. The app’s reminders and motivational prompts keep you focused while its insights help you measure performance and make necessary adjustments. You can set both short-term and long-term objectives with flexible timelines that adapt to your lifestyle. Whether you want to start a new business, learn a skill, or improve health habits, GoalSet gives you structure and accountability. With its empowering design, success becomes a clear, trackable, and deeply fulfilling experience.",
     "size": "34M",
     "reviews": 980,
     "ratingAvg": 4.6,
-    "downloads": 900000,
+    "downloads": "900K",
     "ratings": [
-      { "name": "1 star", "count": 25 },
+      { "name": "1 star", "count": 35 },
       { "name": "2 star", "count": 45 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 330 },
-      { "name": "5 star", "count": 480 }
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 510 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "id": 7,
     "title": "MindMap",
     "companyName": "ThinkCreate",
-    "id": 7,
-    "description": "Create mind maps and brainstorm ideas visually.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "MindMap allows you to capture, connect, and visualize your thoughts like never before. You can start with a central idea and branch out related concepts in an easy drag-and-drop interface. Customize colors, shapes, and layouts to match your creative process. Perfect for brainstorming, planning projects, or organizing study materials, MindMap turns complex information into clear visual structures. You can collaborate in real time, export maps for presentations, or share them with your team effortlessly. With MindMap, ideas evolve naturally, creativity flows freely, and productivity becomes intuitive. It’s a creative thinking tool designed to inspire clarity, innovation, and structured thought every day.",
     "size": "42M",
     "reviews": 544,
     "ratingAvg": 4.3,
-    "downloads": 430000,
-    "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 90 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 209 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
-    "title": "ProjectFlow",
-    "companyName": "FlowSoft",
-    "id": 8,
-    "description": "Plan, assign, and track project tasks as a team.",
-    "size": "67M",
-    "reviews": 1200,
-    "ratingAvg": 4.5,
-    "downloads": 1100000,
+    "downloads": "430K",
     "ratings": [
       { "name": "1 star", "count": 40 },
       { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 550 }
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 164 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "id": 8,
+    "title": "ProjectFlow",
+    "companyName": "FlowSoft",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "ProjectFlow is the ultimate collaboration hub for teams that value structure and simplicity. Manage projects, assign tasks, and monitor progress through a clean and intuitive dashboard that brings everything together. You can set deadlines, track deliverables, and communicate with teammates in real time. Built for both startups and large organizations, ProjectFlow ensures that everyone stays aligned on goals and responsibilities. File sharing, notifications, and analytics make coordination effortless, even across multiple projects. With its balance of powerful functionality and minimal design, ProjectFlow helps teams stay organized, boost accountability, and complete every project efficiently while maintaining focus and clarity from start to finish.",
+    "size": "67M",
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "id": 9,
     "title": "FocusTimer",
     "companyName": "FocusTech",
-    "id": 9,
-    "description": "Pomodoro style timer for deep work sessions.",
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "description": "FocusTimer uses the proven Pomodoro technique to help you work smarter, not longer. The app divides your work into focused intervals followed by short breaks, allowing your brain to recharge and maintain high concentration levels. Customize timer lengths, sound alerts, and session goals to match your personal productivity rhythm. You can track your completed sessions, view statistics, and analyze trends over time to improve your focus strategy. Whether studying, writing, or managing daily tasks, FocusTimer helps you avoid burnout and stay consistent. It’s a simple yet powerful productivity companion that turns time management into an enjoyable and rewarding daily habit.",
     "size": "30M",
     "reviews": 745,
     "ratingAvg": 4.4,
-    "downloads": 700000,
+    "downloads": "700K",
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 110 },
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
       { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 335 }
+      { "name": "5 star", "count": 275 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "id": 10,
     "title": "HabitTrack",
     "companyName": "BetterYou",
-    "id": 10,
-    "description": "Track daily habits with analytics and streaks.",
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "description": "HabitTrack empowers you to take control of your daily routines with a data-driven approach to self-improvement. You can create custom habits, set reminders, and track your consistency through beautiful, insightful charts. The app helps you visualize streaks, stay motivated, and identify where you’re excelling or falling behind. Each completed habit strengthens your progress toward personal growth and positive lifestyle changes. Designed for simplicity and effectiveness, HabitTrack encourages steady progress rather than perfection. Whether you’re building fitness habits, studying daily, or improving sleep, this app provides the structure and motivation to stay committed. Watch your small actions transform into long-term success with HabitTrack.",
     "size": "29M",
     "reviews": 900,
     "ratingAvg": 4.5,
-    "downloads": 850000,
+    "downloads": "850K",
     "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 45 },
-      { "name": "3 star", "count": 85 },
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 120 },
       { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 445 }
+      { "name": "5 star", "count": 365 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "id": 11,
     "title": "NoteSync",
     "companyName": "SyncSoft",
-    "id": 11,
-    "description": "Sync notes across devices in real time.",
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "description": "NoteSync ensures your ideas and notes are always available, securely synchronized across all your devices. Whether online or offline, your content remains safe and instantly accessible. You can create notes, attach files, or organize projects seamlessly within folders. Every edit updates automatically in the cloud, so you never lose your work. The app supports team collaboration, allowing shared notebooks for collective brainstorming or project management. Its sleek interface and fast syncing make productivity effortless. Ideal for professionals, students, and creatives, NoteSync helps you stay organized wherever you go. With NoteSync, your thoughts are protected, connected, and always just a tap away.",
     "size": "25M",
     "reviews": 1100,
     "ratingAvg": 4.7,
-    "downloads": 1300000,
+    "downloads": "1.3M",
     "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 90 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 565 }
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 710 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "id": 12,
     "title": "FocusBoost",
     "companyName": "BoostLab",
-    "id": 12,
-    "description": "White noise, timers and focus tools all in one.",
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=400&q=80",
+    "description": "FocusBoost helps you create an energized, distraction-free workspace using productivity sounds, focus timers, and insightful analytics. It’s designed to help you stay deeply immersed in your work while maintaining balance through breaks and energy tracking. You can choose from different sound environments, such as rain, ocean, or white noise, to enhance concentration. The app records your productivity patterns and gives feedback to improve focus over time. Its modern, calming interface promotes clarity and peace while working. Perfect for professionals, students, and creatives, FocusBoost transforms your workspace into a zone of flow, helping you stay consistent, efficient, and mentally refreshed every day.",
     "size": "38M",
     "reviews": 520,
     "ratingAvg": 4.1,
-    "downloads": 480000,
+    "downloads": "480K",
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 80 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 180 }
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 90 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "id": 13,
     "title": "ClearMind",
     "companyName": "MindClear",
-    "id": 13,
-    "description": "Daily journaling and mental clarity aid.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "description": "ClearMind blends journaling and mindfulness to help you develop greater self-awareness and peace of mind. Use it to record your daily reflections, capture emotions, and set mindful intentions for each day. Guided prompts make it easy to express your thoughts, while mood tracking helps you identify emotional patterns over time. You can review past entries to reflect on personal growth and progress. The app’s minimal and soothing design encourages calm writing sessions that reduce stress. Perfect for anyone seeking clarity, balance, and emotional wellness, ClearMind turns journaling into a transformative habit that nurtures positivity and helps you live more consciously every day.",
     "size": "27M",
     "reviews": 600,
     "ratingAvg": 4.3,
-    "downloads": 570000,
+    "downloads": "570K",
     "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 75 },
-      { "name": "4 star", "count": 240 },
-      { "name": "5 star", "count": 245 }
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 160 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "id": 14,
     "title": "GoalDash",
     "companyName": "GoalSoft",
-    "id": 14,
-    "description": "Visual dashboards to track your goals.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "description": "GoalDash transforms goal tracking into a visual and motivational experience. You can create personalized dashboards for every goal, set milestones, and track progress through charts and colorful visuals. Whether working on health, learning, or career objectives, GoalDash keeps your momentum alive by showing tangible improvements over time. It provides progress alerts, motivational badges, and analytics to help you stay accountable. The sleek, customizable interface ensures clarity and focus as you pursue your ambitions. Designed for both individuals and teams, GoalDash makes success feel visible, measurable, and exciting. It turns your journey toward achievement into an inspiring, data-driven, and rewarding process every day.",
     "size": "48M",
     "reviews": 830,
     "ratingAvg": 4.5,
-    "downloads": 780000,
+    "downloads": "780K",
     "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 110 },
-      { "name": "4 star", "count": 300 },
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 270 },
       { "name": "5 star", "count": 340 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-    "title": "PlanPro",
-    "companyName": "PlanSoft",
     "id": 15,
-    "description": "Daily & weekly planning with smart suggestions.",
-    "size": "54M",
-    "reviews": 1010,
-    "ratingAvg": 4.6,
-    "downloads": 920000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 500 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-    "title": "OrganizeIt",
-    "companyName": "OrderlyApps",
-    "id": 16,
-    "description": "Organize tasks, files, and projects in one place.",
-    "size": "60M",
-    "reviews": 940,
-    "ratingAvg": 4.4,
-    "downloads": 830000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 130 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 430 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-    "title": "SyncTask",
-    "companyName": "SyncSoft",
-    "id": 17,
-    "description": "Synchronize tasks across all your devices.",
-    "size": "28M",
-    "reviews": 780,
-    "ratingAvg": 4.5,
-    "downloads": 760000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 35 },
-      { "name": "3 star", "count": 90 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 335 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-    "title": "TaskShare",
-    "companyName": "ShareSoft",
-    "id": 18,
-    "description": "Share tasks easily with your team or friends.",
-    "size": "33M",
-    "reviews": 650,
-    "ratingAvg": 4.2,
-    "downloads": 590000,
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 205 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-    "title": "FocusLens",
-    "companyName": "LensApps",
-    "id": 19,
-    "description": "Visual focus tools to keep you on track.",
+    "title": "ZenTasks",
+    "companyName": "CalmWork Labs",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80",
+    "description": "ZenTasks brings calm and clarity to your workday by helping you manage tasks mindfully. Designed with simplicity and focus in mind, it allows you to create to-do lists, set deadlines, and prioritize what truly matters. The minimalist interface reduces distractions, while gentle reminders keep you on track without overwhelming notifications. Built-in reflection tools let you evaluate how you spend your time and encourage balanced productivity. Whether you’re managing projects or personal goals, ZenTasks promotes mindful work habits that enhance focus and reduce stress. It’s not just about getting more done — it’s about achieving results with peace, purpose, and intention every day.",
     "size": "31M",
-    "reviews": 540,
-    "ratingAvg": 4.3,
-    "downloads": 480000,
+    "reviews": 610,
+    "ratingAvg": 4.4,
+    "downloads": "620K",
     "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 80 },
-      { "name": "4 star", "count": 200 },
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 190 },
       { "name": "5 star", "count": 215 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
-    "title": "FocusSuite",
-    "companyName": "SuiteApps",
-    "id": 20,
-    "description": "All-in-one suite: timer, notes, habit tracker.",
-    "size": "72M",
-    "reviews": 1320,
+    "id": 16,
+    "title": "PlanIt",
+    "companyName": "FutureSoft",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80",
+    "description": "PlanIt makes planning simple, visual, and efficient. Whether you’re organizing your week, setting long-term goals, or managing projects, PlanIt provides flexible tools for every stage. You can create daily schedules, attach notes, and visualize timelines using smart, color-coded layouts. Its drag-and-drop planner makes rescheduling effortless, while reminders ensure you never miss a deadline. The app syncs across all your devices, keeping your plans always updated. Designed for professionals, students, and families, PlanIt encourages strategic thinking and effective time use. With a clean design and smart analytics, it turns chaos into clarity, helping you take control of your days and achieve more with confidence.",
+    "size": "40M",
+    "reviews": 950,
     "ratingAvg": 4.6,
-    "downloads": 1250000,
+    "downloads": "890K",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 480 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "MindTrack",
+    "companyName": "FocusSphere",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+    "description": "MindTrack is a personal focus and mood tracker designed to improve your mental clarity and productivity. It helps you understand how your emotions and energy levels affect your daily performance. By recording mood entries, energy levels, and activity types, you gain valuable insights into your mental patterns. The app uses gentle reminders and visual analytics to promote self-awareness and emotional balance. Whether you’re working through stress or seeking to optimize productivity, MindTrack gives you clarity and control. Its elegant design and intuitive dashboard make self-reflection easy and rewarding. With MindTrack, mindfulness becomes measurable — empowering you to build better habits and mental resilience every day.",
+    "size": "33M",
+    "reviews": 480,
+    "ratingAvg": 4.2,
+    "downloads": "430K",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 110 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "WorkHive",
+    "companyName": "HiveSoft",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+    "description": "WorkHive brings team collaboration and productivity together in one seamless workspace. You can manage tasks, share documents, and communicate in real-time using chat and voice channels. The app integrates project boards, calendars, and analytics, allowing teams to stay aligned and transparent. WorkHive makes remote teamwork easier by combining organization, accountability, and communication tools in one place. Every project can be broken down into actionable tasks with deadlines and progress tracking. Notifications ensure nothing is missed, while visual dashboards display real-time progress. From startups to enterprises, WorkHive helps teams collaborate smarter, reduce confusion, and maintain momentum on every project from start to finish.",
+    "size": "60M",
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 670 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "CalmClock",
+    "companyName": "ZenTime Studio",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+    "description": "CalmClock transforms your daily routine with smart alarms, focus timers, and relaxation tools designed to promote balance and mindfulness. Instead of harsh sounds, you can wake up to gentle tones or nature-inspired melodies. The focus mode helps you block distractions, while the sleep timer supports healthy bedtime habits. Built-in breathing guides and meditation sounds encourage calmness throughout your day. Whether used for productivity or rest, CalmClock adapts to your rhythm and keeps you grounded. With its minimalist interface and soothing visuals, it’s more than an alarm clock — it’s a personal companion for maintaining mental clarity, consistent routines, and peaceful energy daily.",
+    "size": "36M",
+    "reviews": 580,
+    "ratingAvg": 4.3,
+    "downloads": "520K",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 165 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "DailySteps",
+    "companyName": "MoveMore Labs",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+    "description": "DailySteps motivates you to stay active and healthy by turning your daily walking routine into a fun challenge. The app automatically tracks your steps, calories burned, and distance covered throughout the day. You can set personalized fitness goals, earn achievements, and compare your progress over time. With visual charts and motivational reminders, DailySteps encourages consistent movement and healthier habits. It syncs seamlessly with smartwatches and fitness devices for more accurate tracking. Whether you’re taking short walks or training for a goal, DailySteps helps you stay accountable and inspired. It’s the perfect fitness companion for anyone seeking simple, sustainable, and enjoyable daily activity.",
+    "size": "41M",
+    "reviews": 710,
+    "ratingAvg": 4.5,
+    "downloads": "800K",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "MindFocus",
+    "companyName": "DeepZen Tech",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+    "description": "MindFocus is built to train your attention and improve concentration using scientifically inspired focus sessions. It combines ambient sounds, breathing exercises, and focus timers to help you enter a deep state of work. Each session tracks your performance and provides feedback to help you identify your optimal focus periods. With calming visuals and mindfulness reminders, it encourages a balanced approach to productivity. Whether you’re studying, meditating, or working on a project, MindFocus minimizes distractions and enhances clarity. The app’s goal is simple — help you develop stronger mental discipline and a focused mindset for long-term productivity, calmness, and inner control every day.",
+    "size": "35M",
+    "reviews": 640,
+    "ratingAvg": 4.4,
+    "downloads": "680K",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 215 }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "MindFocus",
+    "companyName": "ZenSoft",
+    "image": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?auto=format&fit=crop&w=400&q=80",
+    "description": "MindFocus combines meditation, productivity tracking, and focus timers to create a calm, distraction-free workspace. It helps you reduce stress and stay mentally present through soothing soundscapes and guided breathing sessions. The customizable timers encourage focused work sessions while promoting regular mindfulness breaks. You can analyze your focus patterns using insightful analytics that reveal how your attention changes throughout the day. With mood tracking and daily reflection tools, MindFocus supports emotional balance and personal growth. Designed for both students and professionals, it blends productivity with peace, allowing you to build healthier work habits, maintain concentration, and achieve a state of calm, mindful efficiency.",
+    "size": "41M",
+    "reviews": 875,
+    "ratingAvg": 4.5,
+    "downloads": "980K",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "WorkNest",
+    "companyName": "TeamSync",
+    "image": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36?auto=format&fit=crop&w=400&q=80",
+    "description": "WorkNest serves as your all-in-one remote collaboration hub for modern teams. It combines chat, task management, and file sharing in one streamlined platform. You can assign responsibilities, monitor progress, and collaborate through real-time updates. The built-in communication tools keep your team connected without switching between apps. Project dashboards provide a clear overview of goals and deadlines, while integration with cloud services ensures easy access to documents anywhere. WorkNest empowers teams to work transparently and efficiently, even when distributed across time zones. Whether you’re managing creative projects or corporate workflows, this platform keeps everyone aligned, focused, and moving together toward success.",
+    "size": "70M",
+    "reviews": 1350,
+    "ratingAvg": 4.7,
+    "downloads": "1.5M",
     "ratings": [
       { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 880 }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "PlanEase",
+    "companyName": "EaseLab",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+    "description": "PlanEase helps you organize projects and daily plans using smart AI-driven suggestions that adapt to your workflow. Whether you’re managing a team or planning personal goals, the app prioritizes tasks dynamically based on urgency and effort. It features a beautiful, intuitive dashboard where you can visualize progress, track milestones, and adjust timelines effortlessly. PlanEase also syncs across multiple devices for consistent planning on the go. Integrated reminders ensure that you stay on schedule, while analytics provide insight into your productivity trends. Simple yet powerful, PlanEase transforms planning into a smooth, motivating process that helps you stay organized, proactive, and always ready.",
+    "size": "49M",
+    "reviews": 920,
+    "ratingAvg": 4.6,
+    "downloads": "880K",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
       { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 400 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 425 }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "FocusMate",
+    "companyName": "DeepWork Studio",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "FocusMate pairs you with a live accountability partner in real time to help you overcome procrastination and stay committed to your goals. Each session connects you with another user who shares the intention to work productively, creating a sense of mutual accountability. You simply set your goals at the start, work quietly for a set duration, and then review your progress together. This peer-based method promotes focus, consistency, and motivation. With easy scheduling, reminders, and a supportive community, FocusMate transforms isolation into collaboration. Whether you’re studying, freelancing, or building personal projects, it helps you stay productive, disciplined, and focused every day.",
+    "size": "32M",
+    "reviews": 640,
+    "ratingAvg": 4.4,
+    "downloads": "740K",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 185 }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "NoteCraft",
+    "companyName": "CraftyNotes",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "NoteCraft turns your thoughts into well-structured digital documents that grow with your ideas. You can write freely, link related notes, and build an interconnected web of knowledge. Perfect for writers, researchers, and creative professionals, it supports rich formatting, attachments, and Markdown syntax. The clean interface encourages deep thinking, while powerful organization tools keep your notes accessible and connected. NoteCraft syncs seamlessly across all devices, so you can capture inspiration anytime. With export options and offline access, it’s ideal for planning, journaling, or research. NoteCraft isn’t just a note app—it’s your personal idea workshop for creativity, clarity, and meaningful documentation.",
+    "size": "44M",
+    "reviews": 1125,
+    "ratingAvg": 4.7,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 280 },
       { "name": "5 star", "count": 690 }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "DailySync",
+    "companyName": "CloudTools",
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80",
+    "description": "DailySync keeps your day in perfect rhythm by automatically syncing tasks, schedules, and meetings across all devices. With real-time updates and cloud integration, it ensures every change you make is instantly reflected everywhere. Smart notifications remind you of important events, while offline support allows productivity even without an internet connection. The interface is simple yet powerful, making it easy to visualize your entire day. You can connect your calendar, task manager, and notes in one place. Whether you’re managing personal routines or professional projects, DailySync provides structure and consistency, keeping you organized, timely, and in complete control of your schedule.",
+    "size": "53M",
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": "970K",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Taskify Pro",
+    "companyName": "NextStep Apps",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=400&q=80",
+    "description": "Taskify Pro takes productivity to the next level with automation, analytics, and intelligent insights. You can create recurring tasks, set smart priorities, and visualize progress through beautiful charts. The AI engine learns your habits and recommends ways to optimize time use. Collaboration features allow teams to share tasks, assign responsibilities, and stay aligned effortlessly. Customizable workflows make Taskify Pro suitable for both personal and professional use. The interface is elegant and efficient, ensuring minimal friction while planning and executing work. With reminders, reports, and seamless device sync, Taskify Pro empowers you to stay productive, informed, and ahead of every deadline.",
+    "size": "62M",
+    "reviews": 1380,
+    "ratingAvg": 4.8,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 925 }
     ]
   }
 ]
+
+
+
+

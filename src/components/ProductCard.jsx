@@ -7,7 +7,7 @@ const ProductCard = ({ product }) => {
     const {image, title, size, ratingAvg, id} = product;
     return (
         <Link to={`/app/${id}`} className="card bg-base-100 w-full shadow-md hover:shadow-xl hover:scale-105 transition ease-in-out duration-300">
-            <figure className="h-48 overflow-hidden">
+            <figure className="h-65 overflow-hidden">
                 <img
                     src={image} alt={title}
           className="rounded-t-xl w-full h-full object-cover p-5" />
