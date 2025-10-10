@@ -5,15 +5,17 @@ import ratingImage from '../assets/icon-ratings.png'
 import downloadImg from '../assets/icon-downloads.png';
 import iconReviewImg from '../assets/icon-review.png';
 import Charts from './Charts';
+import { toast, ToastContainer } from 'react-toastify';
 // import appErrorImg from '../assets/App-Error.png';
 
 const AppDetails = () => {
+    
     const { id } = useParams();
     const { products, loading } = useProducts();
     const product = products.find(p => String(p.id) === id);
     console.log(product);
     if (loading) return <p>Loading...</p>
-    const { image, size, ratingAvg, description } = product || {}
+    const { image, size, ratingAvg, description, companyName } = product || {}
 
     const handleAddToAppDetails = () => {
 
@@ -21,13 +23,16 @@ const AppDetails = () => {
         let updateList = [];
         if (existingList) {
             const isDuplicate = existingList.find(p => p.id === product.id)
-            if (isDuplicate) return alert ("No Apps Found")
+            if (isDuplicate) return toast.warn("App already installed!", { position: "top-right" });
             updateList = [...existingList, product];
         } else {
             updateList.push(product)
         }
-        localStorage.setItem("installation", JSON.stringify(updateList))
+        localStorage.setItem("installation", JSON.stringify(updateList));
+        toast.success("App installed successfully!", { position: "top-right" });
     }
+
+    
     return (
         <>
             <div class="max-w-[1440px] mx-auto bg-white rounded-lg shadow p-3 flex items-center gap-15">
@@ -38,7 +43,7 @@ const AppDetails = () => {
 
 
                 <div class="max-w-[1050px] h-auto flex-1">
-                    <h3 class="text-4xl font-bold pb-1">SmPlan: ToDo List With Reminder</h3>
+                    <h3 class="text-4xl font-bold py-3">{companyName}</h3>
                     <p class="font-bold text-sm text-gray-500 border-b border-gray-300 pb-4">
                         Developed by <a href="#" class="text-indigo-600 hover:underline">productive.io</a>
                     </p>
@@ -66,12 +71,13 @@ const AppDetails = () => {
                 </div>
             </div>
             <div className="pt-6 mb-4 max-w-[1440px] mx-auto">
-                <Charts/>
+                <Charts />
             </div>
             <div className="max-w-[1440px] mx-auto">
                 <h2 className="pb-3 font-semibold text-2xl">Description</h2>
                 <p className="font-normal text-justify pb-5 text-[#627382] ">{description} <br /> <br /> {description} <br /> <br /> {description}</p>
             </div>
+            <ToastContainer/>
         </>
     );
 };

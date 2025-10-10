@@ -11,8 +11,8 @@ const Banner = () => {
             </div>
             <p className="font-normal text-xl text-center w-[1000px] px-3 pt-6">At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
             <div className="flex gap-5 mt-8 items-center justify-center">
-                <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><img className="pr-2" src={playStoreImg} /> Responsive</button>
-                <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><img className="pr-2" src={appStoreImg}/> Responsive</button>
+                <a href="https://play.google.com/store/games?hl=en" target="_blank" rel="noopener noreferrer" className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><img className="pr-2" src={playStoreImg} /> Google Play</a>
+                <a href="https://www.apple.com/kw/app-store/" target="_blank" rel="noopener noreferrer" className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><img className="pr-2" src={appStoreImg}/>App Store</a>
             </div>
             <img className="mt-8" src={heroImage} />
         </div>

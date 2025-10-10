@@ -1,13 +1,14 @@
 import React from 'react';
-import { useRouteError } from 'react-router';
+import errorPageImg from '../assets/error-404.png';
 
 const ErrorPage = () => {
 
-    const error = useRouteError();
+
     return (
-        <div>
-            {error.message}
+        <div className="flex justify-center items-center min-h-screen">
+            <img src={errorPageImg} alt="404 Page Not Found" className="max-w-full h-auto" />
         </div>
+
     );
 };
 

@@ -1,14 +1,37 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import useProducts from '../Hooks/useProducts';
 import ProductCard from '../components/ProductCard';
+import LoadingSpinner from '../components/LoadingSpinner';
 
 const Apps = () => {
     const { products } = useProducts();
 
     const [search, setSearch] = useState('');
-    const term = search.trim().toLocaleLowerCase();
-    const searchedProducts = term ?
-        products.filter(product => product.title.toLocaleLowerCase().includes(term)) : products
+    const [searchedProducts, setSearchedProducts] = useState(products);
+    const [loading, setLoading] = useState(false);
+
+    useEffect(() => {
+        const term = search.trim().toLocaleLowerCase();
+
+        setLoading(true);
+        const delay = setTimeout(() => {
+            if (term) {
+                const filtered = products.filter(product =>
+                    product.title.toLocaleLowerCase().includes(term)
+                );
+                setSearchedProducts(filtered);
+            } else {
+                setSearchedProducts(products);
+            }
+
+            setLoading(false);
+        }, 400);
+        return () => clearTimeout(delay);
+    }, [search, products]);
+
+    // const term = search.trim().toLocaleLowerCase();
+    // const searchedProducts = term ?
+    //     products.filter(product => product.title.toLocaleLowerCase().includes(term)) : products
 
 
     return (
@@ -23,12 +46,17 @@ const Apps = () => {
                     <input value={search} onChange={e => setSearch(e.target.value)} type="search" placeholder="Search" />
                 </label>
             </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 pt-3">
-
-                {
-                    searchedProducts.map(product => <ProductCard key={product.id} product={product}></ProductCard>)
-                }
-            </div>
+            {loading ? (
+                <div className="flex justify-center items-center py-10">
+                    <LoadingSpinner />
+                </div>
+            ) : (
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 pt-3">
+                    {searchedProducts.map(product => (
+                        <ProductCard key={product.id} product={product} />
+                    ))}
+                </div>
+            )}
         </div>
     );
 };

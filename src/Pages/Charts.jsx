@@ -1,14 +1,13 @@
 import React from 'react';
 import { Bar, BarChart, Label, LabelList, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 
-const data = [
+const ratings = [
   { name: '1 star', count: 45 },
   { name: '2 star', count: 60 },
   { name: '3 star', count: 110 },
-  { name: '4 star', count: 240 },
-  { name: '5 star', count: 185 },
+  { name: '4 star', count: 185 },
+  { name: '5 star', count: 200 },
 ];      
-      
             
 const Charts = () => {
 
@@ -17,7 +16,7 @@ const Charts = () => {
         <ResponsiveContainer width="100%" height={300}>
             <BarChart 
                 layout='vertical'
-                data={[...data].sort((a, b) => parseInt(b.name) - parseInt(a.name))}
+                data={[...ratings].sort((a, b) => parseInt(b.name) - parseInt(a.name))}
                 margin={{top:20, bottom:20}}
             >
                 <XAxis type='number'/>
